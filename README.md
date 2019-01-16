@@ -2,8 +2,7 @@
 ## Install Word Cloud Library
 
 ```
-git clone https://github.com/amueller/word_cloud
-cd word_cloud
+cd WordCloud
 python setup.py install
 ```
 
